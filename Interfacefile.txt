@@ -1,0 +1,12 @@
+Interface::
+Interface is key /reserved word..
+interface cannot be instantiated
+
+what is Interface?-->to overcome multiple inheritance
+		     its collection of variables/methods 
+		     but variable defined in interface are public static final //const==immutable==assign value
+		     public abstract() //pure abstract function
+How to use??
+	ClassName extends Inheritance
+	ClassName implements InterfaceName{}
+	ClassName implements InterfaceName1,InterfaceName2{}
